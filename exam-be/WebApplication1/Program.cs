@@ -1,6 +1,11 @@
 using WebApplication1;
 
 var builder = WebApplication.CreateBuilder(args);
+var port = Environment.GetEnvironmentVariable("PORT") ?? "3000";
+Console.WriteLine($"Listening on port {port}");
+
+builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+
 
 // Allow React frontend
 builder.Services.AddCors(options =>

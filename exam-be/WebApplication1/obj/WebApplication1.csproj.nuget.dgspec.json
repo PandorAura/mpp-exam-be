@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\mpp-exam-be\\exam-be\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\mpp-exam-be\\exam-be\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\mpp-exam-be\\exam-be\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\mpp-exam-be\\exam-be\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\aurap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\mpp-exam-be\\exam-be\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
