@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67669195-0CEA-48BA-B48F-6B75DD9528E5}|WebApplication1.csproj|c:\\users\\aurap\\onedrive\\desktop\\cs\\second year\\mpp\\exam\\exam-be\\webapplication1\\characterwebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67669195-0CEA-48BA-B48F-6B75DD9528E5}|WebApplication1.csproj|solutionrelative:characterwebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67669195-0CEA-48BA-B48F-6B75DD9528E5}|WebApplication1.csproj|c:\\users\\aurap\\onedrive\\desktop\\cs\\second year\\mpp\\exam\\exam-be\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67669195-0CEA-48BA-B48F-6B75DD9528E5}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67669195-0CEA-48BA-B48F-6B75DD9528E5}|WebApplication1.csproj|c:\\users\\aurap\\onedrive\\desktop\\cs\\second year\\mpp\\exam\\exam-be\\webapplication1\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67669195-0CEA-48BA-B48F-6B75DD9528E5}|WebApplication1.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67669195-0CEA-48BA-B48F-6B75DD9528E5}|WebApplication1.csproj|c:\\users\\aurap\\onedrive\\desktop\\cs\\second year\\mpp\\exam\\exam-be\\webapplication1\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67669195-0CEA-48BA-B48F-6B75DD9528E5}|WebApplication1.csproj|solutionrelative:characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67669195-0CEA-48BA-B48F-6B75DD9528E5}|WebApplication1.csproj|c:\\users\\aurap\\onedrive\\desktop\\cs\\second year\\mpp\\exam\\exam-be\\webapplication1\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67669195-0CEA-48BA-B48F-6B75DD9528E5}|WebApplication1.csproj|solutionrelative:controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterWebSocketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\CharacterWebSocketHandler.cs",
+              "RelativeDocumentMoniker": "CharacterWebSocketHandler.cs",
+              "ToolTip": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\CharacterWebSocketHandler.cs",
+              "RelativeToolTip": "CharacterWebSocketHandler.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:38:55.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharactersController.cs",
+              "DocumentMoniker": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\Controllers\\CharactersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CharactersController.cs",
+              "ToolTip": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\Controllers\\CharactersController.cs",
+              "RelativeToolTip": "Controllers\\CharactersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:38:12.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterService.cs",
+              "DocumentMoniker": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\CharacterService.cs",
+              "RelativeDocumentMoniker": "CharacterService.cs",
+              "ToolTip": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\CharacterService.cs",
+              "RelativeToolTip": "CharacterService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:37:19.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:36:51.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aurap\\OneDrive\\Desktop\\CS\\SECOND YEAR\\MPP\\EXAM\\exam-be\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:35:20.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
